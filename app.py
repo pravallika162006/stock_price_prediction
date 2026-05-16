@@ -170,22 +170,6 @@ stocks = {
     "Dow Jones": "^DJI"
 }
 
-logo_urls = {
-    "Apple": "https://logo.clearbit.com/apple.com",
-    "Microsoft": "https://logo.clearbit.com/microsoft.com",
-    "Google": "https://logo.clearbit.com/google.com",
-    "Amazon": "https://logo.clearbit.com/amazon.com",
-    "Meta": "https://logo.clearbit.com/meta.com",
-    "Tesla": "https://logo.clearbit.com/tesla.com",
-    "Netflix": "https://logo.clearbit.com/netflix.com",
-    "Nvidia": "https://logo.clearbit.com/nvidia.com",
-    "Intel": "https://logo.clearbit.com/intel.com",
-    "Adobe": "https://logo.clearbit.com/adobe.com",
-    "TCS": "https://logo.clearbit.com/tcs.com",
-    "Infosys": "https://logo.clearbit.com/infosys.com",
-    "Reliance Industries": "https://logo.clearbit.com/relianceindustries.com"
-}
-
 st.subheader("🔍 Selection & Period")
 col_input1, col_input2, col_input3 = st.columns([2, 2, 1])
 
